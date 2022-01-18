@@ -48,7 +48,7 @@ result_m_s_root = math.sqrt(item_2)
 print('result_m_s_root = ', result_m_s_root)
 
 #17. Create a variable result_mp_s_root in which you will find the square root of any of the item variable using the math library using the pow method
-result_mp_s_root = result_m_exp = math.pow(item_1, 0.5)
+result_mp_s_root = math.pow(item_1, 0.5)
 
 #18. Print result_mp_s_root to the console
 print('result_mp_s_root = ', result_mp_s_root)
